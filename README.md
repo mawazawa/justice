@@ -1,6 +1,6 @@
-# JusticeOS™
+# JusticeOS™ 🔒
 
-A modern web application built with cutting-edge technologies.
+**PRIVATE REPOSITORY** - A modern web application built with cutting-edge technologies.
 
 ## 🚀 Features
 
