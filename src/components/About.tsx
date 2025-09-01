@@ -23,7 +23,7 @@ export default function About() {
               </div>
 
               <div className="flex items-start gap-4">
-                <div className="w-2 h-2 bg-purple-400 rounded-full mt-3 flex-shrink-0"></div>
+                <div className="w-2 h-2 bg-cyan-400 rounded-full mt-3 flex-shrink-0"></div>
                 <div>
                   <h3 className="text-lg font-semibold mb-2">AI-Powered Efficiency</h3>
                   <p className="text-gray-400">Intelligent automation handles routine tasks while legal professionals focus on complex decision-making.</p>
@@ -41,7 +41,7 @@ export default function About() {
           </div>
 
           <div className="relative">
-            <div className="bg-gradient-to-br from-blue-600/20 to-purple-600/20 rounded-2xl p-8 backdrop-blur-sm border border-white/10">
+            <div className="bg-gradient-to-br from-blue-600/20 to-cyan-600/20 rounded-2xl p-8 backdrop-blur-sm border border-white/10">
               <div className="space-y-6">
                 <div className="text-center">
                   <div className="text-4xl font-bold text-white mb-2">2024</div>
@@ -54,7 +54,7 @@ export default function About() {
                     <div className="text-sm text-gray-400">Courts Using</div>
                   </div>
                   <div className="text-center">
-                    <div className="text-2xl font-bold text-purple-400 mb-1">1M+</div>
+                    <div className="text-2xl font-bold text-cyan-400 mb-1">1M+</div>
                     <div className="text-sm text-gray-400">Cases Processed</div>
                   </div>
                 </div>
@@ -62,7 +62,7 @@ export default function About() {
                 <div className="bg-white/5 rounded-lg p-4">
                   <div className="text-sm text-gray-400 mb-2">Current Status</div>
                   <div className="w-full bg-gray-700 rounded-full h-2">
-                    <div className="bg-gradient-to-r from-blue-400 to-purple-400 h-2 rounded-full w-3/4"></div>
+                    <div className="bg-gradient-to-r from-blue-400 to-cyan-400 h-2 rounded-full w-3/4"></div>
                   </div>
                   <div className="text-xs text-gray-500 mt-1">75% Adoption Rate</div>
                 </div>
